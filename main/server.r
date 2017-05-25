@@ -74,7 +74,7 @@ shinyServer(function(input, output) {
 		# Obliczenie zmiennej both jako sumy głosów telewidzów i jury
 		dat_to<-data_set[data_set$To.country == input$country,]
 		dat_to$both<-coalesce(dat_to$Jury.Points,0) + coalesce(dat_to$Televote.Points,0)
-		dat_to$country<-dat_to$ď.żFrom.country
+		dat_to$country<-dat_to$From.country
 
 		# Stworzenie zbioru do rysowania wykresów
 		map$country<-map$sovereignt
@@ -100,7 +100,7 @@ shinyServer(function(input, output) {
 		data_set<-get(input$lev)
 
 		# Obliczenie zmiennej both jako sumy głosów telewidzów i jury
-		dat_from<-data_set[data_set$ď.żFrom.country == input$country,]
+		dat_from<-data_set[data_set$From.country == input$country,]
 		dat_from$both<-coalesce(dat_from$Jury.Points,0) + coalesce(dat_from$Televote.Points,0)
 		dat_from$country<-dat_from$To.country
 
@@ -130,7 +130,7 @@ shinyServer(function(input, output) {
 		# Obliczenie zmiennej both jako sumy głosów telewidzów i jury
 		dat_to<-data_set[data_set$To.country == input$country,]
 		dat_to$both<-coalesce(dat_to$Jury.Points,0) + coalesce(dat_to$Televote.Points,0)
-		dat_to$country<-dat_to$ď.żFrom.country
+		dat_to$country<-dat_to$From.country
 
 		# Stworzenie zbioru do pokazania danych
 		map$country<-map$sovereignt
@@ -159,7 +159,7 @@ shinyServer(function(input, output) {
 		data_set<-get(input$lev)
 
 		# Obliczenie zmiennej both jako sumy głosów telewidzów i jury
-		dat_from<-data_set[data_set$ď.żFrom.country == input$country,]
+		dat_from<-data_set[data_set$From.country == input$country,]
 		dat_from$both<-coalesce(dat_from$Jury.Points,0) + coalesce(dat_from$Televote.Points,0)
 		dat_from$country<-dat_from$To.country
 
