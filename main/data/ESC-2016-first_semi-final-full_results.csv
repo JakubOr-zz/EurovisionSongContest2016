@@ -1,0 +1,361 @@
+﻿From country,To country,Jury A,Jury B,Jury C,Jury D,Jury E,Jury Rank,Televote Rank,Jury Points,Televote Points
+Armenia,Finland,4,3,4,6,3,3,13,8,""
+Armenia,Greece,7,7,9,10,9,8,4,3,7
+Armenia,Moldova,6,6,6,4,6,5,15,6,""
+Armenia,Hungary,16,16,5,8,16,12,5,"",6
+Armenia,Croatia,8,9,8,11,7,9,8,2,3
+Armenia,The Netherlands,9,8,7,9,8,7,7,4,4
+Armenia,San Marino,15,13,15,3,15,13,11,"",""
+Armenia,Russia,3,4,3,7,4,4,1,7,12
+Armenia,Czech Republic,5,5,11,5,5,6,9,5,2
+Armenia,Cyprus,14,12,12,15,13,15,3,"",8
+Armenia,Austria,12,14,16,16,14,16,6,"",5
+Armenia,Estonia,10,15,14,12,11,14,12,"",""
+Armenia,Azerbaijan,17,17,17,17,17,17,17,"",""
+Armenia,Montenegro,2,2,2,2,2,2,16,10,""
+Armenia,Iceland,13,11,10,13,12,11,14,"",""
+Armenia,Bosnia & Herzegovina,11,10,13,14,10,10,10,1,1
+Armenia,Malta,1,1,1,1,1,1,2,12,10
+Austria,Finland,6,12,8,2,13,9,14,2,""
+Austria,Greece,15,17,17,16,17,17,11,"",""
+Austria,Moldova,14,13,14,14,14,14,15,"",""
+Austria,Hungary,8,8,9,15,12,11,3,"",8
+Austria,Croatia,3,7,5,8,4,4,5,7,6
+Austria,The Netherlands,1,6,3,7,11,5,2,6,10
+Austria,Armenia,2,4,7,6,9,6,7,5,4
+Austria,San Marino,13,14,11,17,16,15,6,"",5
+Austria,Russia,7,3,4,3,6,3,4,8,7
+Austria,Czech Republic,9,1,2,4,5,2,10,10,1
+Austria,Cyprus,16,11,13,12,10,13,9,"",2
+Austria,Estonia,4,10,12,10,8,10,16,1,""
+Austria,Azerbaijan,10,9,6,9,3,7,12,4,""
+Austria,Montenegro,17,16,16,11,15,16,17,"",""
+Austria,Iceland,12,5,10,5,7,8,8,3,3
+Austria,Bosnia & Herzegovina,11,15,15,13,2,12,1,"",12
+Austria,Malta,5,2,1,1,1,1,13,12,""
+Azerbaijan,Finland,11,13,10,14,11,12,17,"",""
+Azerbaijan,Greece,5,7,5,6,5,5,11,6,""
+Azerbaijan,Moldova,6,5,8,4,6,6,13,5,""
+Azerbaijan,Hungary,4,2,3,3,4,3,4,8,7
+Azerbaijan,Croatia,13,10,9,10,13,11,12,"",""
+Azerbaijan,The Netherlands,15,15,16,16,15,15,7,"",4
+Azerbaijan,Armenia,17,17,17,17,17,17,14,"",""
+Azerbaijan,San Marino,7,8,7,8,7,8,2,3,10
+Azerbaijan,Russia,1,1,2,1,2,1,1,12,12
+Azerbaijan,Czech Republic,10,9,11,11,9,9,8,2,3
+Azerbaijan,Cyprus,16,16,15,15,16,16,10,"",1
+Azerbaijan,Austria,12,14,14,13,14,14,5,"",6
+Azerbaijan,Estonia,9,11,12,9,10,10,9,1,2
+Azerbaijan,Montenegro,3,4,4,5,3,4,16,7,""
+Azerbaijan,Iceland,14,12,13,12,12,13,15,"",""
+Azerbaijan,Bosnia & Herzegovina,2,3,1,2,1,2,6,10,5
+Azerbaijan,Malta,8,6,6,7,8,7,3,4,8
+Bosnia & Herzegovina,Finland,16,11,9,7,17,14,14,"",""
+Bosnia & Herzegovina,Greece,8,10,17,14,7,11,16,"",""
+Bosnia & Herzegovina,Moldova,17,17,15,12,13,16,17,"",""
+Bosnia & Herzegovina,Hungary,5,16,5,13,5,7,10,4,1
+Bosnia & Herzegovina,Croatia,7,8,8,6,9,6,1,5,12
+Bosnia & Herzegovina,The Netherlands,10,5,10,17,11,10,12,1,""
+Bosnia & Herzegovina,Armenia,3,9,1,5,1,4,8,7,3
+Bosnia & Herzegovina,San Marino,2,7,3,1,4,2,11,10,""
+Bosnia & Herzegovina,Russia,4,4,4,2,3,3,4,8,7
+Bosnia & Herzegovina,Czech Republic,1,3,2,3,2,1,7,12,4
+Bosnia & Herzegovina,Cyprus,14,1,16,11,15,13,9,"",2
+Bosnia & Herzegovina,Austria,15,15,13,16,16,17,5,"",6
+Bosnia & Herzegovina,Estonia,13,14,14,10,14,15,15,"",""
+Bosnia & Herzegovina,Azerbaijan,9,2,7,4,8,5,2,6,10
+Bosnia & Herzegovina,Montenegro,6,12,6,15,6,8,3,3,8
+Bosnia & Herzegovina,Iceland,11,13,12,9,12,12,13,"",""
+Bosnia & Herzegovina,Malta,12,6,11,8,10,9,6,2,5
+Croatia,Finland,8,12,15,11,15,14,15,"",""
+Croatia,Greece,17,16,17,17,16,17,17,"",""
+Croatia,Moldova,15,10,11,9,10,11,16,"",""
+Croatia,Hungary,5,7,5,2,3,3,3,8,8
+Croatia,The Netherlands,1,15,8,16,5,9,6,2,5
+Croatia,Armenia,12,3,7,3,7,6,8,5,3
+Croatia,San Marino,16,14,16,10,9,15,12,"",""
+Croatia,Russia,11,2,3,5,8,5,2,6,10
+Croatia,Czech Republic,7,1,1,1,1,1,7,12,4
+Croatia,Cyprus,4,5,2,7,2,2,9,10,2
+Croatia,Austria,10,13,13,13,12,13,4,"",7
+Croatia,Estonia,9,9,12,15,14,12,14,"",""
+Croatia,Azerbaijan,6,6,6,8,11,8,13,3,""
+Croatia,Montenegro,14,17,14,14,17,16,5,"",6
+Croatia,Iceland,3,11,10,12,13,10,11,1,""
+Croatia,Bosnia & Herzegovina,13,4,9,4,6,7,1,4,12
+Croatia,Malta,2,8,4,6,4,4,10,7,1
+Cyprus,Finland,14,9,10,13,8,12,11,"",""
+Cyprus,Greece,15,4,4,17,5,8,1,3,12
+Cyprus,Moldova,10,14,16,10,14,15,9,"",2
+Cyprus,Hungary,12,2,6,12,3,5,5,6,6
+Cyprus,Croatia,4,7,7,5,7,4,10,7,1
+Cyprus,The Netherlands,16,11,8,14,12,14,7,"",4
+Cyprus,Armenia,6,1,5,6,1,2,4,10,7
+Cyprus,San Marino,17,16,17,2,17,16,12,"",""
+Cyprus,Russia,1,3,1,1,2,1,2,12,10
+Cyprus,Czech Republic,8,6,14,3,6,6,14,5,""
+Cyprus,Austria,13,8,9,11,9,9,8,2,3
+Cyprus,Estonia,11,12,3,15,11,11,16,"",""
+Cyprus,Azerbaijan,2,10,12,4,13,7,3,4,8
+Cyprus,Montenegro,9,17,13,16,15,17,17,"",""
+Cyprus,Iceland,7,13,11,9,10,10,13,1,""
+Cyprus,Bosnia & Herzegovina,3,15,15,7,16,13,15,"",""
+Cyprus,Malta,5,5,2,8,4,3,6,8,5
+Czech Republic,Finland,5,5,12,1,4,4,17,7,""
+Czech Republic,Greece,12,13,15,16,16,17,15,"",""
+Czech Republic,Moldova,17,11,10,13,8,11,14,"",""
+Czech Republic,Hungary,1,1,1,2,1,1,5,12,6
+Czech Republic,Croatia,6,4,7,5,7,5,9,6,2
+Czech Republic,The Netherlands,2,2,2,3,2,2,8,10,3
+Czech Republic,Armenia,16,12,11,12,10,12,1,"",12
+Czech Republic,San Marino,7,14,16,9,17,13,13,"",""
+Czech Republic,Russia,15,17,6,14,11,14,3,"",8
+Czech Republic,Cyprus,3,16,13,15,5,10,7,1,4
+Czech Republic,Austria,8,8,5,4,6,6,6,5,5
+Czech Republic,Estonia,13,10,9,17,15,15,12,"",""
+Czech Republic,Azerbaijan,9,9,8,11,9,8,2,3,10
+Czech Republic,Montenegro,14,15,17,10,13,16,16,"",""
+Czech Republic,Iceland,4,6,3,8,12,7,11,4,""
+Czech Republic,Bosnia & Herzegovina,10,7,14,7,14,9,4,2,7
+Czech Republic,Malta,11,3,4,6,3,3,10,8,1
+Estonia,Finland,12,2,9,11,17,11,4,"",7
+Estonia,Greece,16,17,17,7,14,15,16,"",""
+Estonia,Moldova,14,9,10,13,13,13,13,"",""
+Estonia,Hungary,5,6,7,14,4,6,6,5,5
+Estonia,Croatia,9,15,11,4,1,8,12,3,""
+Estonia,The Netherlands,1,7,2,1,6,1,3,12,8
+Estonia,Armenia,11,12,4,6,7,9,10,2,1
+Estonia,San Marino,13,16,16,16,11,16,7,"",4
+Estonia,Russia,10,4,8,9,12,10,1,1,12
+Estonia,Czech Republic,7,14,1,3,10,5,14,6,""
+Estonia,Cyprus,4,3,5,8,2,2,5,10,6
+Estonia,Austria,2,13,13,17,15,14,2,"",10
+Estonia,Azerbaijan,8,1,6,5,8,4,11,7,""
+Estonia,Montenegro,15,10,14,12,3,12,15,"",""
+Estonia,Iceland,6,5,12,10,5,7,8,4,3
+Estonia,Bosnia & Herzegovina,17,11,15,15,16,17,17,"",""
+Estonia,Malta,3,8,3,2,9,3,9,8,2
+Finland,Greece,16,17,17,15,17,17,16,"",""
+Finland,Moldova,8,16,15,14,9,14,17,"",""
+Finland,Hungary,7,15,14,12,6,12,7,"",4
+Finland,Croatia,5,4,10,7,10,6,9,5,2
+Finland,The Netherlands,1,1,7,5,1,1,5,12,6
+Finland,Armenia,6,3,6,8,7,4,10,7,1
+Finland,San Marino,15,12,11,2,12,11,8,"",3
+Finland,Russia,10,5,2,11,2,5,3,6,8
+Finland,Czech Republic,3,2,5,6,3,2,11,10,""
+Finland,Cyprus,11,13,9,13,13,13,4,"",7
+Finland,Austria,2,6,13,1,15,8,2,3,10
+Finland,Estonia,12,8,12,4,11,10,1,1,12
+Finland,Azerbaijan,9,9,4,10,5,9,15,2,""
+Finland,Montenegro,17,11,16,16,14,16,14,"",""
+Finland,Iceland,13,7,3,9,4,7,6,4,5
+Finland,Bosnia & Herzegovina,14,14,8,17,16,15,12,"",""
+Finland,Malta,4,10,1,3,8,3,13,8,""
+France,Finland,12,8,13,9,13,12,18,"",""
+France,Greece,16,18,15,13,7,15,14,"",""
+France,Moldova,14,17,8,15,2,13,9,"",2
+France,Hungary,7,2,5,14,6,6,4,5,7
+France,Croatia,3,11,4,8,8,5,10,6,1
+France,The Netherlands,1,10,6,5,1,3,7,8,4
+France,Armenia,9,4,3,11,11,8,1,3,12
+France,San Marino,15,16,18,17,12,16,13,"",""
+France,Russia,11,7,9,10,3,9,3,2,8
+France,Czech Republic,10,9,11,3,15,10,8,1,3
+France,Cyprus,8,12,2,4,10,7,6,4,5
+France,Austria,2,3,1,2,5,1,2,12,10
+France,Estonia,6,13,10,6,14,11,15,"",""
+France,Azerbaijan,5,6,12,7,4,4,16,7,""
+France,Montenegro,17,14,16,16,17,17,17,"",""
+France,Iceland,13,5,14,12,16,14,11,"",""
+France,Bosnia & Herzegovina,18,15,17,18,18,18,5,"",6
+France,Malta,4,1,7,1,9,2,12,10,""
+Greece,Finland,17,16,17,12,14,17,16,"",""
+Greece,Moldova,9,9,7,10,10,8,11,3,""
+Greece,Hungary,5,3,9,11,4,4,4,7,7
+Greece,Croatia,16,10,16,6,17,14,7,"",4
+Greece,The Netherlands,2,13,15,3,15,10,9,1,2
+Greece,Armenia,3,5,2,2,2,2,3,10,8
+Greece,San Marino,14,17,14,14,13,16,5,"",6
+Greece,Russia,1,1,1,1,3,1,2,12,10
+Greece,Czech Republic,10,4,13,15,8,11,8,"",3
+Greece,Cyprus,4,2,4,5,1,3,1,8,12
+Greece,Austria,15,11,3,13,5,9,6,2,5
+Greece,Estonia,11,15,10,4,12,12,14,"",""
+Greece,Azerbaijan,6,8,8,7,7,6,12,5,""
+Greece,Montenegro,7,6,6,8,6,5,17,6,""
+Greece,Iceland,12,14,11,16,11,13,15,"",""
+Greece,Bosnia & Herzegovina,13,12,12,17,16,15,13,"",""
+Greece,Malta,8,7,5,9,9,7,10,4,1
+Hungary,Finland,9,8,12,4,2,7,10,4,1
+Hungary,Greece,12,16,13,13,6,14,16,"",""
+Hungary,Moldova,6,12,16,16,7,13,15,"",""
+Hungary,Croatia,5,9,8,6,11,8,12,3,""
+Hungary,The Netherlands,7,4,7,8,8,5,5,6,6
+Hungary,Armenia,8,2,9,3,12,6,9,5,2
+Hungary,San Marino,17,17,17,17,17,17,6,"",5
+Hungary,Russia,4,3,5,2,5,2,2,10,10
+Hungary,Czech Republic,3,5,4,7,1,3,8,8,3
+Hungary,Cyprus,10,7,6,14,13,9,4,2,7
+Hungary,Austria,15,13,15,5,9,12,3,"",8
+Hungary,Estonia,11,15,10,12,4,11,11,"",""
+Hungary,Azerbaijan,1,6,1,11,3,4,1,7,12
+Hungary,Montenegro,13,14,14,15,16,16,17,"",""
+Hungary,Iceland,14,10,3,10,14,10,13,1,""
+Hungary,Bosnia & Herzegovina,16,11,11,9,15,15,14,"",""
+Hungary,Malta,2,1,2,1,10,1,7,12,4
+Iceland,Finland,15,10,6,16,13,15,9,"",2
+Iceland,Greece,16,12,7,8,16,14,16,"",""
+Iceland,Moldova,11,6,12,9,15,12,11,"",""
+Iceland,Hungary,12,16,3,11,7,9,5,2,6
+Iceland,Croatia,8,5,10,1,2,4,12,7,""
+Iceland,The Netherlands,2,1,2,3,1,1,2,12,10
+Iceland,Armenia,7,7,5,7,12,6,8,5,3
+Iceland,San Marino,6,3,15,14,14,11,10,"",1
+Iceland,Russia,1,2,1,5,10,2,1,10,12
+Iceland,Czech Republic,3,4,4,4,9,3,13,8,""
+Iceland,Cyprus,9,13,9,12,8,10,6,1,5
+Iceland,Austria,10,8,8,2,11,7,3,4,8
+Iceland,Estonia,13,17,11,13,4,13,14,"",""
+Iceland,Azerbaijan,5,11,14,10,6,8,4,3,7
+Iceland,Montenegro,14,14,16,17,3,16,17,"",""
+Iceland,Bosnia & Herzegovina,17,15,17,15,17,17,15,"",""
+Iceland,Malta,4,9,13,6,5,5,7,6,4
+Malta,Finland,11,8,9,4,7,6,13,5,""
+Malta,Greece,5,7,16,17,8,11,16,"",""
+Malta,Moldova,10,13,6,8,5,7,11,4,""
+Malta,Hungary,13,9,13,10,13,13,3,"",8
+Malta,Croatia,15,17,14,14,9,17,12,"",""
+Malta,The Netherlands,16,12,4,13,14,14,4,"",7
+Malta,Armenia,2,1,1,2,1,1,7,12,4
+Malta,San Marino,9,3,7,5,12,5,6,6,5
+Malta,Russia,1,2,3,1,3,2,1,10,12
+Malta,Czech Republic,12,6,11,6,11,8,9,3,2
+Malta,Cyprus,8,14,2,3,2,3,5,8,6
+Malta,Austria,7,11,10,7,17,10,10,1,1
+Malta,Estonia,6,16,8,9,10,9,14,2,""
+Malta,Azerbaijan,14,15,12,16,6,15,2,"",10
+Malta,Montenegro,4,5,5,12,4,4,17,7,""
+Malta,Iceland,3,10,15,15,15,12,8,"",3
+Malta,Bosnia & Herzegovina,17,4,17,11,16,16,15,"",""
+Moldova,Finland,11,15,12,10,13,14,13,"",""
+Moldova,Greece,15,14,14,11,16,15,14,"",""
+Moldova,Hungary,5,6,13,5,4,8,5,3,6
+Moldova,Croatia,9,8,8,1,6,6,9,5,2
+Moldova,The Netherlands,10,2,2,7,12,7,11,4,""
+Moldova,Armenia,2,3,9,4,1,2,3,10,8
+Moldova,San Marino,12,16,15,17,15,16,7,"",4
+Moldova,Russia,1,1,5,2,2,1,2,12,10
+Moldova,Czech Republic,8,7,1,3,5,3,8,8,3
+Moldova,Cyprus,4,4,10,6,3,4,15,7,""
+Moldova,Austria,7,12,11,15,14,13,4,"",7
+Moldova,Estonia,13,5,3,8,8,9,10,2,1
+Moldova,Azerbaijan,6,13,16,12,11,12,1,"",12
+Moldova,Montenegro,17,17,17,16,17,17,16,"",""
+Moldova,Iceland,16,11,6,14,9,11,17,"",""
+Moldova,Bosnia & Herzegovina,14,10,7,13,10,10,12,1,""
+Moldova,Malta,3,9,4,9,7,5,6,6,5
+Montenegro,Finland,12,16,14,15,17,16,12,"",""
+Montenegro,Greece,9,7,6,9,7,8,14,3,""
+Montenegro,Moldova,16,13,17,12,14,15,17,"",""
+Montenegro,Hungary,11,11,10,6,13,10,5,1,6
+Montenegro,Croatia,3,4,8,2,6,4,3,7,8
+Montenegro,The Netherlands,6,8,7,14,10,9,13,2,""
+Montenegro,Armenia,1,2,3,1,2,1,8,12,3
+Montenegro,San Marino,15,15,15,17,16,17,9,"",2
+Montenegro,Russia,2,6,1,5,3,3,2,8,10
+Montenegro,Czech Republic,10,5,5,7,8,7,10,4,1
+Montenegro,Cyprus,8,10,12,11,15,11,6,"",5
+Montenegro,Austria,17,17,13,13,11,14,11,"",""
+Montenegro,Estonia,13,14,16,10,12,13,16,"",""
+Montenegro,Azerbaijan,5,9,4,8,5,6,4,5,7
+Montenegro,Iceland,14,12,11,16,9,12,15,"",""
+Montenegro,Bosnia & Herzegovina,7,3,9,4,4,5,1,6,12
+Montenegro,Malta,4,1,2,3,1,2,7,10,4
+Russia,Finland,17,17,17,-,13,17,17,"",""
+Russia,Greece,4,7,5,-,5,4,8,7,3
+Russia,Moldova,9,8,8,-,4,5,6,6,5
+Russia,Hungary,13,9,9,-,2,7,5,4,6
+Russia,Croatia,3,16,13,-,8,10,7,1,4
+Russia,The Netherlands,7,13,7,-,14,11,11,"",""
+Russia,Armenia,2,1,1,-,3,1,1,12,12
+Russia,San Marino,11,15,15,-,16,16,13,"",""
+Russia,Czech Republic,14,3,4,-,9,6,10,5,1
+Russia,Cyprus,16,10,11,-,10,13,3,"",8
+Russia,Austria,6,14,14,-,11,12,2,"",10
+Russia,Estonia,8,4,10,-,17,9,12,2,""
+Russia,Azerbaijan,1,5,3,-,1,2,4,10,7
+Russia,Montenegro,15,6,6,-,7,8,16,3,""
+Russia,Iceland,12,11,12,-,12,14,14,"",""
+Russia,Bosnia & Herzegovina,10,12,16,-,15,15,15,"",""
+Russia,Malta,5,2,2,-,6,3,9,8,2
+San Marino,Finland,17,14,16,17,2,16,15,"",""
+San Marino,Greece,11,7,15,1,17,14,16,"",""
+San Marino,Moldova,13,12,14,9,6,15,13,"",""
+San Marino,Hungary,10,11,9,8,10,12,4,"",7
+San Marino,Croatia,6,3,11,10,16,10,12,1,""
+San Marino,The Netherlands,1,1,3,4,5,1,5,12,6
+San Marino,Armenia,14,10,5,11,7,11,3,"",8
+San Marino,Russia,7,17,2,2,15,8,1,3,12
+San Marino,Czech Republic,15,2,1,16,8,7,9,4,2
+San Marino,Cyprus,5,8,6,3,11,3,6,8,5
+San Marino,Austria,9,4,10,14,14,13,8,"",3
+San Marino,Estonia,16,16,17,15,13,17,14,"",""
+San Marino,Azerbaijan,2,13,12,7,4,5,2,6,10
+San Marino,Montenegro,4,9,4,6,9,2,17,10,""
+San Marino,Iceland,8,6,7,13,3,4,10,7,1
+San Marino,Bosnia & Herzegovina,3,5,13,12,12,9,7,2,4
+San Marino,Malta,12,15,8,5,1,6,11,5,""
+Spain,Finland,9,8,10,5,10,8,14,3,""
+Spain,Greece,15,16,17,18,17,17,15,"",""
+Spain,Moldova,13,13,16,10,14,14,13,"",""
+Spain,Hungary,4,1,2,2,4,2,6,10,5
+Spain,Croatia,12,7,11,14,8,11,9,"",2
+Spain,The Netherlands,1,10,9,1,13,7,5,4,6
+Spain,Armenia,2,2,1,3,2,1,2,12,10
+Spain,San Marino,18,18,18,17,16,18,12,"",""
+Spain,Russia,11,6,3,4,1,3,3,8,8
+Spain,Czech Republic,7,3,7,6,5,5,4,6,7
+Spain,Cyprus,8,12,14,7,7,10,8,1,3
+Spain,Austria,10,14,8,11,9,12,1,"",12
+Spain,Estonia,14,9,15,12,12,13,11,"",""
+Spain,Azerbaijan,6,4,4,13,3,6,17,5,""
+Spain,Montenegro,16,17,12,16,18,16,18,"",""
+Spain,Iceland,5,11,6,9,11,9,7,2,4
+Spain,Bosnia & Herzegovina,17,15,13,15,15,15,16,"",""
+Spain,Malta,3,5,5,8,6,4,10,7,1
+Sweden,Finland,10,9,1,7,9,7,5,4,6
+Sweden,Greece,15,15,18,9,18,16,15,"",""
+Sweden,Moldova,18,14,9,15,12,14,17,"",""
+Sweden,Hungary,6,10,17,11,11,13,7,"",4
+Sweden,Croatia,4,8,16,6,7,8,10,3,1
+Sweden,The Netherlands,5,7,15,3,1,5,2,6,10
+Sweden,Armenia,1,3,6,13,10,6,8,5,3
+Sweden,San Marino,17,18,10,14,17,18,11,"",""
+Sweden,Russia,2,2,3,2,2,1,3,12,8
+Sweden,Czech Republic,3,5,5,8,8,4,13,7,""
+Sweden,Cyprus,14,13,7,12,5,10,9,1,2
+Sweden,Austria,9,17,14,4,6,9,4,2,7
+Sweden,Estonia,12,6,4,16,16,12,14,"",""
+Sweden,Azerbaijan,11,1,8,1,3,3,16,8,""
+Sweden,Montenegro,16,16,13,17,14,17,18,"",""
+Sweden,Iceland,8,11,11,10,13,11,6,"",5
+Sweden,Bosnia & Herzegovina,13,12,12,18,15,15,1,"",12
+Sweden,Malta,7,4,2,5,4,2,12,10,""
+The Netherlands,Finland,8,4,12,10,4,9,15,2,""
+The Netherlands,Greece,17,17,17,16,16,17,13,"",""
+The Netherlands,Moldova,7,12,11,15,15,14,16,"",""
+The Netherlands,Hungary,9,11,8,1,8,8,5,3,6
+The Netherlands,Croatia,1,1,6,4,1,1,6,12,5
+The Netherlands,Armenia,10,5,1,8,9,6,1,5,12
+The Netherlands,San Marino,11,6,16,17,10,13,7,"",4
+The Netherlands,Russia,14,15,3,7,12,10,3,1,8
+The Netherlands,Czech Republic,6,13,5,5,5,7,9,4,2
+The Netherlands,Cyprus,2,9,4,2,3,2,8,10,3
+The Netherlands,Austria,3,2,10,9,7,5,2,6,10
+The Netherlands,Estonia,13,14,13,6,13,12,14,"",""
+The Netherlands,Azerbaijan,5,3,7,13,2,4,12,7,""
+The Netherlands,Montenegro,16,10,14,11,17,15,17,"",""
+The Netherlands,Iceland,12,8,9,12,11,11,11,"",""
+The Netherlands,Bosnia & Herzegovina,15,16,15,14,14,16,4,"",7
+The Netherlands,Malta,4,7,2,3,6,3,10,8,1
