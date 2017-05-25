@@ -1,6 +1,11 @@
-W celu uruchomienia trzeba w kodzie "main.R" zmieniæ
+Uruchamiaj¹c w RStudio nic nie trzeba zmieniaæ. 
+W innym oprogramowaniu nale¿y w kodzie "main.R" dodaæ linijkê
 
 	setwd("D:/####Studia/PWD")
+
+zamiast
+
+	setwd(dirname(getActiveDocumentContext()$path ))
 
 Tak aby wskazywa³a folder "PWD", a nastêpnie uruchomiæ ca³y program main.R
 

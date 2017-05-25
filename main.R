@@ -5,7 +5,7 @@
 #remove.packages("rgdal")
 
 # Zainstaluj brakujace pakiety
-list.of.packages <- c("shiny", "classInt", "RColorBrewer", "rgdal")
+list.of.packages <- c("shiny", "classInt", "RColorBrewer", "rgdal", "rstudioapi")
 new.packages <- list.of.packages[!(list.of.packages %in% installed.packages()[,"Package"])]
 if(length(new.packages)) install.packages(new.packages)
 
@@ -20,11 +20,12 @@ library(shiny)
 library(rgdal)
 library(RColorBrewer)
 library(classInt)
+library(rstudioapi)
 
 # Ustaw sciezke robocza
 getwd()
-#setwd("C:/Users/ASUS/Desktop/Studia_Kuba/PWD")
-setwd("D:/####Studia/PWD")
+setwd(dirname(getActiveDocumentContext()$path ))
+getwd()
 
 # Uruchom aplikacje
 runApp("main")
